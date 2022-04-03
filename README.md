@@ -23,8 +23,6 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * Update attributes of an object
 * Destroy an object
 
-## Newest project version
-[AirBnB_v4](https://github.com/AmineNeifer/AirBnB_clone_v4)
 
 ## Table of Content
 * [Architecture](#architecture)
@@ -39,7 +37,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [License](#license)
 
 ## Architecture
-![This is an image describing the project architecture](https://github.com/Edin93/AirBnB_clone_v3/blob/master/documentation/architecture.png)
+![This is an image describing the project architecture](https://github.com/Edin93/AirBnB_clone_v3/blob/master/architecture.png)
 
 ## Environment
 * This project is interpreted/tested on Ubuntu 14.04 LTS
@@ -175,8 +173,8 @@ EOF  all  create  destroy  help  quit  show  update
 ```
 
 ## Screenshots
-![alt text](https://github.com/Edin93/AirBnB_clone_v3/blob/master/documentation/web0.jpg)
-![alt text](https://github.com/Edin93/AirBnB_clone_v3/blob/master/documentation/web1.jpg)
+![web site screenshot 1](https://github.com/Edin93/AirBnB_clone_v3/blob/master/web0.jpg)
+![web site screenshot 2](https://github.com/Edin93/AirBnB_clone_v3/blob/master/web1.jpg)
 
 ## Bugs
 No known bugs at this time.
