@@ -37,7 +37,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [License](#license)
 
 ## Architecture
-![This is an image describing the project architecture](https://github.com/Edin93/AirBnB_clone_v3/blob/master/architecture.png)
+![This is an image describing the project architecture](https://github.com/Edin93/AirBnB_console/blob/main/architecture.png)
 
 ## Environment
 * This project is interpreted/tested on Ubuntu 14.04 LTS
@@ -173,8 +173,8 @@ EOF  all  create  destroy  help  quit  show  update
 ```
 
 ## Screenshots
-![web site screenshot 1](https://github.com/hosedin/AirBnB_clone_v3/blob/master/web0.jpg)
-![web site screenshot 2](https://github.com/hosedin/AirBnB_clone_v3/blob/master/web1.jpg)
+![web site screenshot 1](https://github.com/hosedin/AirBnB_console/blob/main/web0.jpg)
+![web site screenshot 2](https://github.com/hosedin/AirBnB_console/blob/main/web1.jpg)
 
 ## Bugs
 No known bugs at this time.
