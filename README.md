@@ -37,7 +37,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [License](#license)
 
 ## Architecture
-![This is an image describing the project architecture](https://github.com/Edin93/AirBnB_console/blob/main/architecture.png)
+![This is an image describing the project architecture](https://github.com/hosedin/AirBnB_console/blob/main/architecture.png)
 
 ## Environment
 * This project is interpreted/tested on Ubuntu 14.04 LTS
